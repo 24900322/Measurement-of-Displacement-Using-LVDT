@@ -62,7 +62,3 @@ Thus the Measurement of Displacement using LVDT has been measured.
 
 
 
-## Result:
-
-
-
